@@ -17,7 +17,7 @@
     ],
     "require": {
         "php": "^8.1",
-        "filament/forms": "^3.0",
+        "filament/forms": "^4.0",
         "spatie/laravel-package-tools": "^1.15.0"
     },
     "require-dev": {
@@ -59,6 +59,6 @@
             ]
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "beta",
     "prefer-stable": true
 }
